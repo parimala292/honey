@@ -1,2 +1,3 @@
 hello
 sudo wget http://mirrors.ibiblio.org/apache/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz –P /tmp
+jenkins-plugin-cli --plugins config-file-provider:3.11.1
